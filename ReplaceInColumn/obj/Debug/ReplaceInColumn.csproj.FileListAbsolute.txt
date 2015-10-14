@@ -1,0 +1,7 @@
+C:\Users\21423\Documents\Visual Studio 2013\Projects\ReplaceInColumn\ReplaceInColumn\bin\Debug\ReplaceInColumn.exe.config
+C:\Users\20904\Desktop\ReplaceInColumn\ReplaceInColumn\bin\Debug\ReplaceInColumn.exe.config
+C:\Users\20904\Desktop\ReplaceInColumn\ReplaceInColumn\bin\Debug\ReplaceInColumn.exe
+C:\Users\20904\Desktop\ReplaceInColumn\ReplaceInColumn\bin\Debug\ReplaceInColumn.pdb
+C:\Users\20904\Desktop\ReplaceInColumn\ReplaceInColumn\obj\Debug\ReplaceInColumn.csprojResolveAssemblyReference.cache
+C:\Users\20904\Desktop\ReplaceInColumn\ReplaceInColumn\obj\Debug\ReplaceInColumn.exe
+C:\Users\20904\Desktop\ReplaceInColumn\ReplaceInColumn\obj\Debug\ReplaceInColumn.pdb
