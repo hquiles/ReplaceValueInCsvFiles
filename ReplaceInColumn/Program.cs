@@ -21,6 +21,7 @@ namespace Underwriter_3rdPartyFix
             {
                 try
                 {
+                    //filestream!!!!!!!!!!!!!!
                     var oStream = new FileStream(file, FileMode.OpenOrCreate, FileAccess.Write, FileShare.ReadWrite);
                     var iStream = new FileStream(file, FileMode.Open, FileAccess.Read, FileShare.ReadWrite);
 
